@@ -40,4 +40,4 @@ The project combines fundamental NLP techniques with data-driven machine learnin
 
 ## Documentation
 
-The full project report can be viewed [here]().
+The full project report can be viewed [here](https://github.com/BengRhui/Spam_Message_Analysis_with_NLP/blob/3d4a5f8e72d755dc6ea5e21705f47aa25994a1c3/Report/G3_TXSA_Report.pdf).
